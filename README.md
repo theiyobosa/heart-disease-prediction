@@ -1,4 +1,4 @@
-<h1>Boston House Prediction</h1>
+<h1>Heart Disease Prediction</h1>
 
 <h2>Dataset</h2>
 
